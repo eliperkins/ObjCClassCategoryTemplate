@@ -2,7 +2,7 @@
 
 This is the Objective-C class category template that Xcode 6 **so kindly removed...**
 
-Clearly, they want us to welcome our Swift extension overlords.
+Clearly, Apple wants us to welcome our Swift extension overlords.
 
 # License
 
